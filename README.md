@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <h3>📫 How to reach me:</h3>
   <ul>
     <li>Email: sonngoc17899@gmail.com</li>
-    <li>Fb<li>
+    <li>Fb</li>
   </ul>
   <h3>Languages and Tools:</h3>
   <ul>
