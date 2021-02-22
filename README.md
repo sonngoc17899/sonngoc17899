@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <div>
   <h2>Hi.I'm Ngoc Son.</h2>
-  <hr>
   <h5>I'm a Web Developer working in Ha Noi, Vietnam. I'm still a student and preparing to graduate from college. </h5>
   <h3>📫 How to reach me:</h3>
   <ul>
