@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </ul>
   <h3>Languages and Tools:</h3>
   <ul>
-    <li style="display: inline-block"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></li>
+    <li style="display: inline-block"><img style="height: 20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></li>
     <li style="display: inline-block"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></li>
     <li style="display: inline-block"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></li>
     <li style="display: inline-block"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/></li>
