@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <h2>Hi.I'm Ngoc Son.</h2>
   <hr>
   <h5>I'm a Web Developer working in Ha Noi, Vietnam. I'm still a student and preparing to graduate from college. </h5>
-  <h3>📫 How to reach me:</h3>
+  <h3 style="color: red">📫 How to reach me:</h3>
   <ul>
     <li>Email: sonngoc17899@gmail.com</li>
     <li>Fb</li>
